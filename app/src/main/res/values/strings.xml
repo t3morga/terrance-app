@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terrance Morgan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_education">Education</string>
+    <string name="title_certification">Certifications</string>
+    <string name="title_experience">Experience</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_contact">Contact</string>
+    <string name="home_text">
+        <![CDATA[
+
+            <b>LEADING AGILE TRANSFORMATIONS AND DELIVERING SOFTWARE SOLUTIONS</b>
+            <p>
+                <q>
+                    A <a href="https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/c2726316-b895-47e2-9d29-5cd9c0872ddf">certified Lean Agile Coach</a>
+                    with more than 15 years of experience, including software engineering and
+                    project management. Manages customer relationships in a consulting capacity throughout the full
+                    software development life cycle (SDLC). Experienced in leading international/offshore and domestic
+                    resources while delivering projects under budget and on-time.
+                 </q>
+             </p>
+
+]]>
+    </string>
+    <string name="experience_text">
+        <![CDATA[
+        <b>EXPERIENCE</b>
+        <ul>
+                        <li><b>BANK OF AMERICA</b>
+                        TECHNOLOGY MANAGER / LEAN AGILE COACH
+                        September 2016 - Present
+                        </li>
+
+                        <li><b>ACCENTURE</b>
+                        CONSULTANT / TECH MANAGER
+                        June 2007 - September 2016
+                        </li>
+
+                        <li><b>WALMART STORES INC.</b>
+                        J2EE SOFTWARE ENGINEER
+                        August  2003 - June 2007
+                        </li>
+        </ul>
+]]>
+    </string>
+    <string name="education_text">
+         <![CDATA[
+        <b>EDUCATION</b>
+        <ul>
+
+        <li><b>UNIVERSITY OF TEXAS ARLINGTON, ARLINGTON,TX </b>
+             <ul>
+                <li>Certificate Program, PROJECT MANAGEMENT</li>
+                <li>Completed Nov. 2014</li>
+            </ul>
+         </li>
+
+
+
+        <li>   <b>NORTHWESTERN STATE UNIVERSITY, NATCHITOCHES, LA</b>
+           <ul>
+             <li>   B.S. COMPUTER SCIENCE, INFORMATION SYSTEMS</li>
+             <li>   Graduated Dec. 2003</li>
+         </li>
+        </ul>
+]]>
+    </string>
+    <string name="certification_text">
+         <![CDATA[
+        <b>CERTIFICATIONS</b>
+        <ul>
+                        <li><b>PSM 1</b> - PROFESSIONAL SCRUM MASTER</li>
+                        <li><b>ICP-ATF</b> - AGILE TEAM FACILITATION</li>
+                        <li><b>ICP-ACC</b> - AGILE COACHING</li>
+        </ul>
+]]>
+    </string>
+    <string name="contact_text">
+         <![CDATA[
+        <b>Coming Soon</b>
+
+]]>
+    </string>
+</resources>
